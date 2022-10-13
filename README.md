@@ -1,6 +1,8 @@
 # VProfile-Proj
 Setting Up Web Application Stack Locally
 
+<img src="https://raw.githubusercontent.com/Ben74x/VProfile-Proj/main/Architecture.jpg" alt="">
+
 ### Prerequisites
 #
 - JDK 1.8 or later
